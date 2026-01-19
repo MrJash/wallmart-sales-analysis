@@ -3,6 +3,10 @@
 An interactive **Power BI dashboard** built to analyze Walmart store sales performance across **categories, states, cities, products, and time**.  
 This project helps identify top-selling products, profit-driving segments, and location-based trends for better business decisions.
 
+<p align="center">
+  <img src="dashboard.png" alt="Walmart Sales Dashboard" width="900" />
+</p>
+
 ## Dashboard Highlights
 
 ### Key KPIs
